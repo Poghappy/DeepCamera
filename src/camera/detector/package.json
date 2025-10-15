@@ -23,7 +23,7 @@
     "aliyun-sdk": "^1.11.11",
     "async": "^1.5.2",
     "better-queue": "^3.8.7",
-    "bull": "^3.5.1",
+    "bull": "^3.29.3",
     "config": "^3.0.0",
     "dockerode": "^2.5.4",
     "download-file": "^0.1.5",
