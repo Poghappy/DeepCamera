@@ -1,2 +1,3 @@
 flask
 tqdm==4.64.0
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
