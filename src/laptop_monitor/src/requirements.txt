@@ -3,3 +3,4 @@ pymilvus==2.0.0
 towhee==0.6.0
 redis
 notebook==6.4.12
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
